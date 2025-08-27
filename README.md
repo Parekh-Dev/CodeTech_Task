@@ -1,4 +1,5 @@
-#  🌡️ Weather App with React<br />
+# CodeTech_Task1
+🌡️ Weather App with React<br />
 This is a simple weather application built using React. It allows users to search for a location and retrieve current weather information. The app utilizes the OpenWeatherMap API to fetch weather data based on the user's input.
 
 ## 📸 Preview
@@ -30,7 +31,7 @@ This is a simple weather application built using React. It allows users to searc
 
 To run the WeatherApp locally, follow these steps:
 
-1. Clone the repository: `https://github.com/its-kumar-yash/react-weather-app.git`
+1. Clone the repository: `https://github.com/Parekh-Dev/CodeTech_Task.git`
 2. Navigate to the project directory: `cd react-weather-app`
 3. Install the dependencies: `npm install`
 4. Create a free account on OpenWeatherMap to obtain an API key.
@@ -41,8 +42,3 @@ To run the WeatherApp locally, follow these steps:
 ## 📑Resources
 - [OpenWeatherMap documentation](https://openweathermap.org/)
 
-## ✨Credits
-`WeatherApp` is developed and maintained by `Yash`. Weather data is retrieved from the [OpenWeatherMap API](https://openweathermap.org/).
-
-## 📧Contacts
-For any inquiries or feedback, please contact [Here](mailto:its.yash.kumar23@gmail.com).
