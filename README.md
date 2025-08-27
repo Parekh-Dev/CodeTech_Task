@@ -1,4 +1,4 @@
-# CodeTech_Task1
+# CodeTech_Task
 🌡️ Weather App with React<br />
 This is a simple weather application built using React. It allows users to search for a location and retrieve current weather information. The app utilizes the OpenWeatherMap API to fetch weather data based on the user's input.
 
