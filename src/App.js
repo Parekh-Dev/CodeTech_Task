@@ -21,6 +21,7 @@ import axios from "axios";
 function App() {
   //Variable declarations
   const API_KEY = process.env.REACT_APP_API_KEY;
+  console.log("Loaded API Key:", API_KEY);
   const [noData, setNoData] = useState();
   const [searchTerm, setSearchTerm] = useState("");
   const [weatherData, setWeatherData] = useState([]);
